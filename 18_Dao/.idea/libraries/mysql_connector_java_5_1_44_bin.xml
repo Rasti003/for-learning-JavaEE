@@ -2,6 +2,11 @@
   <library name="mysql-connector-java-5.1.44-bin">
     <CLASSES>
       <root url="jar://C:/Program Files (x86)/MySQL/Connector.J 5.1/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/META-INF/lib/spring-jdbc-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/META-INF/lib/spring-beans-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/META-INF/lib/spring-core-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/META-INF/lib/spring-tx-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/META-INF/lib/commons-logging-1.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
