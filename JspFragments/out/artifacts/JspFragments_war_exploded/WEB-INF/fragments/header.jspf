@@ -1,0 +1,7 @@
+
+<div>
+    <ul style="display:inline;">
+        <li><a href="index.jsp">Strona główna</a></li>
+        <li><a href="second.jsp">Szczegóły</a></li>
+    </ul>
+</div>
